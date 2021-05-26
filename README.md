@@ -27,7 +27,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/siddhi-bhor-38aa7b1a5"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Siddhi%20Bhor-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/siddhi-bhor-38aa7b1a5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Siddhi%20Bhor-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:siddhi.bhor@vit.edu.in"><img alt="Email" src="https://img.shields.io/badge/Email-siddhi.bhor@vit.edu.in-blue?style=flat-square&logo=gmail"></a>
 </p>
 
