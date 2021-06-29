@@ -31,4 +31,10 @@
 <a href="mailto:siddhi.bhor@vit.edu.in"><img alt="Email" src="https://img.shields.io/badge/Email-siddhi.bhor@vit.edu.in-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+## 📢 Competitive Programming Handles
+<p align="left">
+    <a href="https://www.codechef.com/users/siddhibhor56">
+    <img src="https://cp-logo.vercel.app/codechef/siddhibhor56" alt="codechef" style="vertical-align:top; margin:35px">
+  </a>&nbsp;&nbsp;&nbsp;
+
 ⭐️ From [siddhibhor-56](https://github.com/siddhibhor-56)
