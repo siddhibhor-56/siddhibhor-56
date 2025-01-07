@@ -2,8 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Currently a Third Year IT (Information Technology) student @VIT .
-- 🌱 &nbsp; Learning more about Web Development and Data Science.
+- 🎓 &nbsp; Working at Redhat .
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <ul>
